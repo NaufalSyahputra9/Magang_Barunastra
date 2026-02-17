@@ -14,3 +14,4 @@ Git, adalah salah satu layanan VCS yang paling populer dan ramai digunakan saat 
 ## Merging Branch in Github
 ## Other Procedure
 
+![oniel](https://r1.community.samsung.com/t5/image/serverpage/image-id/10669455i9017E4DE630FEFC3/image-size/large?v=v2&px=999)
